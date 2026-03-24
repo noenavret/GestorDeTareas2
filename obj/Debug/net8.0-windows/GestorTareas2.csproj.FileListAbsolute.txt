@@ -14,3 +14,4 @@ C:\Users\noenavret\source\repos\GestorTareas2\GestorTareas2\obj\Debug\net8.0-win
 C:\Users\noenavret\source\repos\GestorTareas2\GestorTareas2\obj\Debug\net8.0-windows\GestorTareas2.pdb
 C:\Users\noenavret\source\repos\GestorTareas2\GestorTareas2\obj\Debug\net8.0-windows\GestorTareas2.genruntimeconfig.cache
 C:\Users\noenavret\source\repos\GestorTareas2\GestorTareas2\obj\Debug\net8.0-windows\ref\GestorTareas2.dll
+C:\Users\noenavret\source\repos\GestorTareas2\GestorTareas2\obj\Debug\net8.0-windows\GestorTareas2.sourcelink.json
