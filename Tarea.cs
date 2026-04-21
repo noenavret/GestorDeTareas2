@@ -10,6 +10,7 @@ namespace GestorTareas2
         public bool Completada { get; set; }
         public bool PrioridadAlta { get; set; }
         public string Categoria { get; set; }
+        public List<string> Etiquetas { get; set; } = new List<string>();
 
         public override string ToString()
         {
@@ -19,4 +20,5 @@ namespace GestorTareas2
             return $"{estado}{prioridad}{Nombre} ({Categoria})";
         }
     }
+    
 }
